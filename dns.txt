@@ -3,3 +3,5 @@
 ||2345.com^
 ||2345.cn^
 ||hao123.com^
+||hao123.sh^
+||hao.qq.com^
